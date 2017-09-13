@@ -23,3 +23,83 @@
   content: "|";
   padding-right: 0.3em;
 }
+
+body{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d1d1d1+21,e2e2e2+51,e2e2e2+51,dbdbdb+97,fefefe+100 */
+  background: #d1d1d1; /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover, #d1d1d1 21%, #e2e2e2 51%, #e2e2e2 51%, #dbdbdb 97%, #fefefe 100%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover, #d1d1d1 21%,#e2e2e2 51%,#e2e2e2 51%,#dbdbdb 97%,#fefefe 100%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center, #d1d1d1 21%,#e2e2e2 51%,#e2e2e2 51%,#dbdbdb 97%,#fefefe 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d1d1d1', endColorstr='#fefefe',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+#gray{
+  font-size : 30px;
+}
+.phones {
+  list-style: none;
+}
+
+.phones li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}
+
+.thumb {
+  float: left;
+  height: 100px;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  width: 100px;
+}
+
+.cars{
+  text-align : center;
+}
+
+.cars img{
+  width : 20em;
+  height : 20em;
+  border-radius : 10px;
+}
+
+.cars a{
+  width : 50%;
+  text-align : center;
+  margin : auto;
+}
+
+#btn-price_width{
+  min-width: 320px;
+}
+
+.cars .col-md-4{
+  margin-bottom : 20px;
+}
+
+.img-full{
+  width : 100%;
+}
+
+.clear{
+	clear: both;
+}
+
+.carDetails img{
+	float : left;
+	padding : 10px;
+	width : 120%;
+}
+
+.carDetails h3{
+	text-align : center;
+}
+
+.carDetails .arrow{
+	width : 5%;
+}
+
+.centerMe{
+	text-align: center;
+}

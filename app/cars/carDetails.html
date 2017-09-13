@@ -1,0 +1,19 @@
+<div class='carDetails'>
+
+	<a href="#/cars"><img class='arrow' src="img/icons/left-arrow.png"></a>
+	<br/><br/>
+	<div class="col-md-4">
+		<script type="text/javascript"></script>
+		<!-- <img ng-src="img/cars/{{ imageName }}"> -->
+		<img class="img-full" style="padding: auto auto;"  src="img/cars/{{imageName}}">
+	</div>
+	<div >
+		<h3>{{currentCarData.name}}</h3>
+		<p>{{currentCarData.description}}</p>
+	</div>
+	<div class="clear"></div>
+	<div class="centerMe">
+		<h4>{{currentCarData.price | currency}}</h4>
+			Paypall :Buy it
+	</div>
+</div>

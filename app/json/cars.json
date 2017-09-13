@@ -1,0 +1,58 @@
+[
+	{
+		"id" : 1,
+		"name" : "Audi RS5",
+		"description" : "Starting with its massive air intakes, it’s clear the RS5 is no average beast. The meanest version of Audi’s sports coupe now has a twin-turbo 2.9-liter V-6 instead of a naturally aspirated V-8. The new engine produces the same 450 hp as the outgoing V-8, but torque has increased dramatically to 443 lb-ft. The output routes through Audi’s Quattro all-wheel-drive system via an eight-speed automatic. While the driving experience is a bit cold, there’s no denying this car’s monstrous abilities",
+		"type" : "Bi-Turbo",
+		"price" : 100000,
+		"images" : [{"name" : "audi_rs5.jpeg"}]
+	},
+	{
+		"id" : 2,
+		"name" : "Lamborghini Centinario",
+		"description" : "Here are the technical characteristics of the Lamborghini Centenario: equipped with a 770 CV aspirated V12 engine springing from 0 to 100 km/h in 2.8 seconds, the newly-born Lamborghini car has been produced in a limited edition, for a total of 40 models: 20 Coupés and 20 Roadsters will be delivered to Lamborghini collectors and fans starting from 2017.The Centenario has been conceived with the purpose of exploring new technological and design opportunities, to look at the future through the lens of innovation. One of the most exclusive (and sought-after) cars in the whole world.",
+		"type" : "Naturally aspirated V12",
+		"price" : 1200000,
+		"images" : [{"name" : "lambo_centinario.jpg"}]
+	},
+	{
+		"id" : 3,
+		"name" : "BMW M4",
+		"description" : "Get behind the wheel of the M4 and prepare for explosive acceleration and razor-sharp handling. Power comes from a 425-hp twin-turbo inline-six, with either a six-speed manual or a seven-speed dual-clutch automatic and rear-wheel drive. The Competition package makes 444 hp, but for the ultimate M4, there’s the track-focused, automatic-only, 454-hp M4 CS. While the regular M4 is offered in both coupe and convertible forms, the CS comes hardtop only. All versions ensure legendary M performance",
+		"type" : "Twin-turbo inline-six",
+		"price" : 90000,
+		"images" : [{"name" : "bmw_m4.jpg"}]
+	},
+	{
+		"id" : 4,
+		"name" : "Bentley Bentayga",
+		"description" : "Bentayga is unlike any other sport utility vehicle in the world. It is also the fastest SUV ever built. This powerful, all-terrain, all-purpose car offers an exceptional driving experience. As well as having the most technically advanced engine in its category, it has Mulliner Driving Specification fitted as standard and a choice of more paint colours than any other SUV. With its all-new W12 petrol engine, Bentayga has redefined what an SUV engine can do. The Bentayga 6.0 litre engine achieves 0 to 60 mph in 4.0 seconds (0 to 100 km/h 4.1 seconds) and accelerates to a top speed of 187 mph (301 km/h), making it the world's fastest SUV.",
+		"type" : "Twin-turbo W12",
+		"price" : 420000,
+		"images" : [{"name" : "bentley_bentayga.jpg"}]
+	},
+	{
+		"id" : 5,
+		"name" : "Rolls-Royce Wraith 2017",
+		"description" : "The Wraith is derived from the Ghost, but it has its own distinct—some might say sporting—personality. With a 624-hp version of the Ghost’s V-12, the wheelbase is shorter and the fastback body is unique. The Wraith is quicker and more nimble than the Ghost, with a light touch to the steering and a gently controlled ride. Rolls tradition abounds, with rear-hinged power doors, the available Starlight headliner, and an array of options that can launch the already-lofty base price into high orbit.",
+		"type" : "V12 6.6 Twin Turbo (N74B66)",
+		"price" : 385500,
+		"images" : [{"name" : "rolls_royce_wraith.jpg"}]
+	},
+	{
+		"id" : 6,
+		"name" : "Marusya B2",
+		"description" : "The Marussia B-Series was a series of sports cars built by Russian automaker Marussia Motors (pronounced ma-rus-ya). The series consists of the B1 and the B2; the cars are very similar technically, but are very different in design. The two vehicles have the same engines, layout, features, suspension, brakes, price was more than (>4,000,000 ruble the range was from 120,000 € to 185,000[€]). They were the first Russian sports cars ever built. It's a full carbon fiber car with aluminium chassis only 12 - 20 Marussia B1 still exist, and the actual price is evaluated at 400 000 euro",
+		"type" : "V6",
+		"price" : 400000,
+		"images" : [{"name" : "marusya.jpeg"}]
+	},
+	{
+		"id" : 7,
+		"name" : "Porshe 918 Spyder",
+		"description" : "The Porsche 918 Spyder is a mid-engined plug-in hybrid sports car by Porsche.The Spyder is powered by a naturally aspirated 4.6-litre V8 engine, developing 616 PS (608 bhp; 453 kW), with two electric motors delivering an additional 283 PS (279 bhp; 208 kW) for a combined output of 899 PS (887 bhp; 661 kW). The 918 Spyder's 6.8 kWh lithium-ion battery pack delivers an all-electric range of 19 km (12 mi) under EPA's five-cycle tests. The car has a top speed of around 340 km/h (210 mph). Production began on September 18, 2013, with deliveries initially scheduled to begin in December 2013, and a starting price of US$847,000. The 918 Spyder was sold out in December 2014 and production ended in June 2015",
+		"type" : "4.6 L V8 + 2 electric motors on front and rear axle",
+		"price" : 700000,
+		"images" : [{"name" : "porshe_918S.jpg"}]
+	}
+]
